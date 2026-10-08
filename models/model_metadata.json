@@ -1,0 +1,17 @@
+{
+  "best_model": "Logistic Regression",
+  "features": [
+    "study_hours",
+    "attendance",
+    "previous_score",
+    "assignment_score",
+    "sleep_hours"
+  ],
+  "metrics": {
+    "Accuracy": 0.7733,
+    "Precision": 0.8079,
+    "Recall": 0.8079,
+    "F1 Score": 0.8079,
+    "ROC-AUC": 0.8604
+  }
+}
